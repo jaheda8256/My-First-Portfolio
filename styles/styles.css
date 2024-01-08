@@ -1,0 +1,80 @@
+body{
+
+    font-family: 'Lato', sans-serif;
+
+}
+.content{
+    background-image: linear-gradient(180deg, #070211 0%, rgba(7, 2, 17, 0.03) 100%), url('../images/Banner\ Image.png');
+  max-width: 1300px;
+    height: 600px;
+  margin:auto;
+padding-top: 150px;
+margin-top: 50px;
+border-radius: 16px;
+
+   
+   
+}
+.title{
+    text-align: center;
+    color: #FFF;
+    font-size: 30px;
+    font-style: normal;
+   line-height: 1.6px;
+ 
+    
+
+}
+.title-text{
+    text-align: center;
+    color: #FFF;
+    font-size: 70px;
+    width: 600px;
+    padding-left: 320px;
+  
+   
+ 
+}
+/* main style */
+.title-description{
+    text-align: center;
+    line-height: 1.6px;
+    margin-top: 200px;
+
+}
+.title-description2{
+    font-size: 100px;
+    color: #FF0000;
+    line-height: 50px 40px;
+    padding-bottom: 50px;
+ 
+ 
+    
+}
+
+.title-description3{
+    font-size: 20px;
+    color: #FF0000;
+
+
+}
+.title-description4{
+    font-size: 40px;
+   padding-top: 0px;
+
+}
+.description{
+     max-width: 700px;
+    height: 400px;
+    margin-left: 290px;
+    
+    margin-top: 30px;
+}
+.title-text-title{
+    max-width: 1600px;
+    height: 3000px;
+    background: #FFF;
+
+}
+
+
