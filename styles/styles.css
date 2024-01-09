@@ -161,7 +161,85 @@ border-radius: 20px;
     color: #FFF;
     font-size: 20px;
     margin-top: 40px;
-  
-    
+   
+}
+
+
+.development{
+    display: flex;
+    justify-content: space-between;
+     width:1120px;
+    height: 460px;
+    margin: auto;
+    margin-top: 100px;
+    line-height: 15px;
 
 }
+.developer1{
+    border-radius: 600px;
+    border: 15px solid #F00;
+    align-items: center;
+    margin-top: 10px;
+    margin-right: 80px;
+    margin-left: 100px;
+    width: 370px;
+    height: 370px;
+    padding-top: 32px;
+    padding-left: 35px;
+    padding-right: 5px   ;
+    padding-bottom: 5px;
+  
+}
+.door2{
+    text-align: left;
+    width: 500px;
+    height: 200px;
+
+}
+.time4{
+    color: rgba(7, 2, 17, 0.564);
+    font-size: 13px;
+   weight: 200px;
+    height: 100px;
+   
+}
+
+.time7{
+    color: rgba(7, 2, 17, 0.564);
+    font-size: 13px;
+    padding-right:30px;
+}
+.time8{
+    width: 100px;
+    height: 100px;
+  margin-right: 40px;
+}
+.developer{
+
+   width: 340px;
+  height:340px ;
+  margin-right: 220px;
+  padding-right: 100px;
+
+}
+.time2{
+    color: #F00;
+    font-size: 23px;
+    padding-top:60px ;
+}
+.time6{
+    font-size: 45px;
+    color: #F00;
+    padding-top:60px ;
+    padding-right: 30px;
+ 
+}
+.time3{
+    color: black;
+    font-size: 45px;
+    width: 300px;
+  
+}
+/* .door{
+padding-right: 70px;
+} */
